@@ -1,0 +1,2 @@
+defmodule CrashingTheBeam do
+end
